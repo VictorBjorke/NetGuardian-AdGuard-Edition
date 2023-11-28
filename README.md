@@ -1,7 +1,7 @@
 # 🚀 NetGuardian-AdGuard-Edition 🛡️
 Elevate your browsing experience with custom AdGuard blocklists, designed to keep your network squeaky clean from unwanted content!
 
-# This project is based on chadmayfield's original works called my-pihole-blocklists
+### This project is based on chadmayfield's original works called my-pihole-blocklists
 https://github.com/chadmayfield/my-pihole-blocklists
 
 ## Disclaimer 📜
