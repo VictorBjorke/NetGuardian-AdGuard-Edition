@@ -11,8 +11,10 @@ This project is a cool, independent venture, not affiliated with the AdGuard gur
 We've got some neat lists for you:
 
 - **Adult Content Blocklists** 🚫💔
-  - Light list: `adguard_blocklist_adult_top1m.list` (~21k domains). A curated list targeting only the adult sites from the top 1 million sites out there.
-  - Heavy list: `adguard_blocklist_adult_all.list` (~2 million domains). A hefty list. Heads up: This one's a bit heavy for the light-hearted!
+  - Light list: `porn_blocklist_small.list` (~21k domains). A curated list targeting only the adult sites from the top 1 million sites out there.
+  - Heavy list: `porn_blocklist_all.list` (~2 million domains). A hefty list. Heads up: This one's a bit heavy for the light-hearted!
+- **Other** 🤯
+  - Sus list: `internet_baddies.list` A list of various sus TLDs and domains.
 
 Stay tuned for more list adventures! 🌍✨
 
