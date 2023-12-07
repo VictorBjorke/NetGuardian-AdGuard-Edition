@@ -1,8 +1,9 @@
-*.cn
-*.ua
-*.zip
-*.mov
-*.pk
+||*.ru^
+||*.cn^
+||*.ua^
+||*.tk^
+||*.mov^
+||*.vodka^
 scytec.com
 sfbayarea-homecare.com
 mazamins.uk
